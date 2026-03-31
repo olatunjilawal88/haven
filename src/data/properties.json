@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "badge": "New Launch",
+    "badgeColor": "green",
+    "name": "HAVEN AZURE",
+    "location": "Eko Atlantic, Lagos",
+    "price": "₦285,000,000",
+    "size": "320 sqm",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "tagline": "Oceanfront living with uninterrupted Atlantic views.",
+    "image": "/src/assets/azure.jpg",
+    "cta": "View Development"
+  },
+  {
+    "id": 2,
+    "badge": "Selling Fast",
+    "badgeColor": "amber",
+    "name": "HAVEN RIDGE",
+    "location": "Lekki Phase 1, Lagos",
+    "price": "₦165,000,000",
+    "size": "210 sqm",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "tagline": "Contemporary design in the heart of Lekki.",
+    "image": "/src/assets/ridge.jpg",
+    "cta": "View Development"
+  },
+  {
+    "id": 3,
+    "badge": "Last Units",
+    "badgeColor": "red",
+    "name": "HAVEN COURT",
+    "location": "Old Ikoyi, Lagos",
+    "price": "₦420,000,000",
+    "size": "480 sqm",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "tagline": "Old Ikoyi prestige. Completely reimagined.",
+    "image": "/src/assets/courts.jpg",
+    "cta": "View Development"
+  }
+]
