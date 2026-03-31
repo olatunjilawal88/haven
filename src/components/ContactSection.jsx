@@ -168,7 +168,7 @@ const Contact = () => {
           </div>
 
           {/* Right side — form */}
-          <div className="flex flex-col gap-6 h-full col-span-1 md:block hidden">
+          <div className=" flex-col gap-6 h-full col-span-1 md:block hidden">
 
             <motion.div 
             initial={{ clipPath: "inset(0% 80% 0% 0%)"}} 
